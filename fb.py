@@ -1,5 +1,3 @@
-#phishing programထဲကsour
-#ce codeပါ
 
 import requests
 import pyfiglet
