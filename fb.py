@@ -1,9 +1,10 @@
 #phishing programထဲကsour
 #ce codeပါ
-clear
+
 import requests
 import pyfiglet
 import time
+clear
 a = pyfiglet.figlet_format('facebook info')
 print(a)
 print("autor by: kwee thite")
