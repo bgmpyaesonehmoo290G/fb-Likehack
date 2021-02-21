@@ -3,7 +3,7 @@
 import requests
 import pyfiglet
 import time
-a = pyfiglet.figlet_format('hack fb')
+a = pyfiglet.figlet_format('facebook info')
 print(a)
 print("autor by: kwee thite")
 print("dont use illegal")
