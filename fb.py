@@ -1,5 +1,6 @@
 #phishing programထဲကsour
 #ce codeပါ
+clear
 import requests
 import pyfiglet
 import time
